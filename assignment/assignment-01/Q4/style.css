@@ -19,6 +19,7 @@ a {
   width: 40%;
   background-color: #282828;
   border-radius: 20px;
+  padding: 0px;
 }
 .title {
   text-align: center;
@@ -38,6 +39,6 @@ a {
 .footer p {
   display: flex;
   align-items: center;
-  font-size: 50px;
+  font-size: 40px;
   margin-left: 20px;
 }
