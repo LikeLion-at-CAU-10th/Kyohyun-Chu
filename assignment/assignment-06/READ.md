@@ -3,7 +3,7 @@
 ## 1. 설명
 
 ### 1-1. 가상환경 (Virtual Environment)
-- Python과 Django는 다양하 모듈을 제공하고 있으며, 기본 모듈을 제외한 추가적인 모듈은 pip install 명령어를 통해 설치해서 사용해야 한다.
+- Python과 Django는 다양하게 모듈을 제공하고 있으며, 기본 모듈을 제외한 추가적인 모듈은 'pip install' 명령어를 통해 설치해서 사용해야 한다.
 - 가상환경을 켜놓고 모듈을 설치하면, 모듈은 가상환경 내에서만 사용할 수 있다.
 <br/>`$ virtualenv myvenv` 가상환경 생성
 <br/>`$ source myvenv/bin/activate` 가상환경 켜기
